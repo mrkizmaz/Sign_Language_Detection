@@ -15,14 +15,14 @@
 
 ### Flow
 <ul>
-<li>[x] Clone repo - (https://github.com/nicknochnack/RealTimeObjectDetection</li>
+<li>[x] Clone repo - (https://github.com/nicknochnack/RealTimeObjectDetection)</li>
 <li>[x] Collect images with code</li>
-<li>[] Setup labelimg</li>
-<li>[] Label images</li>
-<li>[] Update labelmap</li>
-<li>[] Train</li>
-<li>[] Update checkpoint</li>
-<li>[] Detect</li>
+<li>[ ] Setup labelimg</li>
+<li>[ ] Label images</li>
+<li>[ ] Update labelmap</li>
+<li>[ ] Train</li>
+<li>[ ] Update checkpoint</li>
+<li>[ ] Detect</li>
 </ul>
 
 
